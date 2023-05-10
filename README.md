@@ -5,3 +5,5 @@
 - 📫 Contato: gyovani.santos@dcomp.ufs.br
 
 ![Gyovani's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyovani19&show_icons=true&theme=algolia)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyovani19&layout=donut)](https://github.com/gyovani19/github-readme-stats)
