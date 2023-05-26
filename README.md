@@ -17,8 +17,10 @@
   
 </div>
 
-<br>
+<div align="center">
+  <a href="https://github.com/gyovani19">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gyovani19&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyovani19&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
 
-![Gyovani's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyovani19&show_icons=true&theme=algolia)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyovani19&layout=donut)](https://github.com/gyovani19/github-readme-stats)
