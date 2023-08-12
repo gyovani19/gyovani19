@@ -12,7 +12,7 @@
   <img align="center" alt="Gyovani-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 <img align="center" alt="Gyovani-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
-<img align="center" alt="Gyovani-Assembly" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/assembly/assembly-original.svg">
+<img align="center" alt="Gyovani-Spark" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spark/spark-original.svg">
           
   <br>
     <br>
