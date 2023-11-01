@@ -5,14 +5,16 @@
 - 📫 Contato: gyovani.santos@dcomp.ufs.br
 
 <div style="display: inline_block"><br>
-  
-<img align="center" alt="Gyovani-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Gyovani-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="Gyovani-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-<img align="center" alt="Gyovani-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
- <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/go/go-original-wordmark.svg"/>      
-</div>
+  <img align="center" alt="Gyovani-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gyovani-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Gyovani-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gyovani-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gyovani-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  <img align="center" alt="Gyovani-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
+  <img align="center" alt="Gyovani-Kafka" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/apachekafka/apachekafka-original-wordmark.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/go/go-original-wordmark.svg"/>
+ </div>
 
 <div>
   <br>
