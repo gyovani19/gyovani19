@@ -1,6 +1,6 @@
 ### Olá, eu sou Gyovani Santos 👋
 
-- 🔭 Entusiasta em Desenvolvimento WEB e realizo pesquisa na área de Redes e Computação distribuída.
+- 🔭 Desenvolvedor Web Full Stack e Analista de Redes de Computadores
 - 🌱 Em minha pesquisa estou estudando e utilizando ferramentas de BigData tais como Kafka, Hadoop e Spark.
 - 📫 Contato: gyovani.santos@dcomp.ufs.br
 
