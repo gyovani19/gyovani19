@@ -19,7 +19,7 @@
 <br>
   <a href="https://github.com/gyovani19">
 
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyovani19&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
+  <img width="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyovani19&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
 </div>
   
   
