@@ -1,6 +1,6 @@
 ### Olá, eu sou Gyovani Santos 👋
 
-- 🔭 Desenvolvedor Web Full Stack e Analista de Redes de Computadores
+- 🔭 Desenvolvedor Web Full Stack e Técnico em Redes de Computadores
 - 🌱 Em minha pesquisa estou estudando e utilizando ferramentas de BigData tais como Kafka, Hadoop e Spark.
 - 📫 Contato: gyovani.santos@dcomp.ufs.br
 
