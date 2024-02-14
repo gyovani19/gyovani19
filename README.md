@@ -1,7 +1,7 @@
 ### Olá, eu sou Gyovani Santos 👋
 
 - 🔭 Desenvolvedor Web Full Stack e Técnico em Redes de Computadores
-- 🌱 Em minha pesquisa estou estudando e utilizando ferramentas de BigData tais como Kafka, Hadoop e Spark.
+- 🌱 Em minha pesquisa realizo um estudo sobre algoritmos bioinspirados aplicados em contexto de Big Data, o projeto é desenvolvido em parceria com o LNCC e o MCTI
 - 📫 Contato: gyovani.santos@dcomp.ufs.br
 
 <div style="display: inline_block"><br>
