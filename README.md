@@ -1,8 +1,6 @@
-### Olá, eu sou Gyovani Santos 👋
+### Hello, I'm Gyovani Santos 👋
 
-- 🔭 Desenvolvedor Web Full Stack e Técnico em Redes de Computadores
-- 🌱 Pesquisador na área de algoritmos bioinspirados em contexto de Big Data, vinculado à UFS, LNCC e MCTI
-- 📫 Contato: gyovani.santos@dcomp.ufs.br
+I'm studying Bachelor of Information Systems and working as a Web Full Stack Developer and Computer Networks Technician, also I'm curently doing a researche in the field of bioinspired algorithms in the context of Big Data, affiliated with UFS, LNCC, and MCTI.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gyovani-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
