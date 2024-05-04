@@ -1,6 +1,10 @@
-### Hello, I'm Gyovani Santos 👋
+### Olá, sou Gyovani Santos 👋
 
-I'm pursuing a Bachelor's degree in Information Systems and working as a Web Full Stack Developer and Computer Networks Technician. Additionally, I hold specialization in data streaming and pattern detection through computer vision techniques. Currently, I'm engaged in research in the field of bioinspired algorithms within the context of Big Data, collaborating with UFS, LNCC, and MCTI.
+Estou cursando Bacharelado em Sistemas de Informação além de ser Técnico em Redes de Computadores, atuo principalmente como Desenvolvedor Web Full Stack. Além disso, possuo especialização em streaming de dados e detecção de padrões por meio de técnicas de visão computacional. Atualmente, estou envolvido em pesquisa no campo de algoritmos bioinspirados no contexto de Big Data e em Streaming de Dados, colaborando com UFS, LNCC e MCTI.
+
+- 🎓 Graduando em Sistemas de Informação | **UFS**
+- 🏬 Presidente da Liga Acadêmica de Desenvolvimento Web | [**LAWD**](https://github.com/Lawd-UFS)
+- 🐜 Pesquisador em Algoritmos Bioinspirados do Laboratório de Experimentos em Redes de Computadores | [**ELAN**](https://ri.ufs.br/handle/riufs/16284)
 
 <div>
   <br>
