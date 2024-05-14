@@ -7,11 +7,8 @@ Estou cursando Bacharelado em Sistemas de Informação além de ser Técnico em 
 - 🐜 Pesquisador em Algoritmos Bioinspirados do Laboratório de Experimentos em Redes de Computadores | [**ELAN**](https://ri.ufs.br/handle/riufs/16284)
 
 <div>
-  <br>
-<br>
-  <a href="https://github.com/gyovani19">
+ 
 
-  <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyovani19&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
 </div>
   
   
