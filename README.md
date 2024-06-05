@@ -16,7 +16,10 @@ Estou cursando Bacharelado em Sistemas de Informação na UFS e sou Técnico em 
 </div>
 </div>
   
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Ferramentas E Linguagens:**  
+[![My Skills](https://skillicons.dev/icons?i=js,ts,tailwind,react,vite,next,expressjs,nodejs,mongodb,md,git,github,vscode,styledcomponents,postman,arduino,bash,bootstrap,bun,c,django,docker,go,kafka,git,ubuntu,linux,nextjs,latex,py,pytorch,rails,raspberrypi,ruby,rails,&perline=13)](#)
   
+
   <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
