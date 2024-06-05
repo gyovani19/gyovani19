@@ -12,10 +12,12 @@ Estou cursando Bacharelado em Sistemas de Informação na UFS e sou Técnico em 
   <a href="https://github.com/gyovani19">
 
 
-  <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyovani19&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
+  <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyovani19&layout=compact&langs_count=7&theme=white&count_private=true"/>
 </div>
 </div>
   
   
-  
+  <p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
