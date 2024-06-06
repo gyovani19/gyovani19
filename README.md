@@ -1,5 +1,5 @@
 ### Olá, sou Gyovani Santos 👋
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gyovani19&label=Profile%20views&color=0e75b6&style=flat" alt="gyovani19" /> </p>
 Estou cursando Bacharelado em Sistemas de Informação na UFS e sou Técnico em Redes de Computadores pelo IFS, atuo principalmente como Desenvolvedor Web. Além disso, possuo especialização em streaming de dados e detecção de padrões por meio de técnicas de visão computacional. Atualmente, estou envolvido em pesquisa no campo de Reconstrução e Preservação dos Dados da Fauna Marinha do Brasil em parceria com o Departamento de Computação e o Ministério de Pesca e Agricultura.
 
 - 🎓 Graduando em Sistemas de Informação | **UFS**
