@@ -4,7 +4,7 @@ Estou cursando Bacharelado em Sistemas de Informação na UFS e sou Técnico em 
 
 - 🎓 Graduando em Sistemas de Informação | **UFS**
 - 🏬 Presidente da Liga Acadêmica de Desenvolvimento Web | [**LAWD**](https://github.com/Lawd-UFS)
-- 🔍 Pesquisador membro do Laboratório para Universalização do Desenvolvimento, Inovação e Inteligência Computacional | [**LUDIICO**](https://www.ludii.co/)
+- 🔍 Pesquisador do Laboratório para Universalização do Desenvolvimento, Inovação e Inteligência Computacional | [**LUDIICO**](https://www.ludii.co/)
 
 <div>
  
