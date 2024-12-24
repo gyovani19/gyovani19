@@ -6,16 +6,13 @@ Curso Sistemas de Informação na UFS e sou Técnico em Redes de Computadores pe
 - 🏬 Presidente da Liga Acadêmica de Desenvolvimento Web | [**LAWD**](https://github.com/Lawd-UFS)
 - 🔍 Pesquisador do Laboratório para Universalização do Desenvolvimento, Inovação e Inteligência Computacional | [**LUDIICO**](https://www.ludii.co/)
 
-<div>
- 
-<br>
-<br>
-  <a href="https://github.com/gyovani19">
-
-
-  <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyovani19&layout=compact&langs_count=7&theme=white&count_private=true"/>
-</div>
-</div>
+<p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/gyovani19/gyovani19/output-3d-contrib/night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gyovani19/gyovani19/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/gyovani19/gyovani19/output-3d-contrib/night.svg" />
+	</picture>
+</p>
   
   
 🌐 Desenvolvimento Web
