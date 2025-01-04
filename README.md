@@ -1,6 +1,6 @@
 ### Salve, meu nome é Gyovani Santos 
 
-Curso Sistemas de Informação na UFS e sou Técnico em Redes de Computadores pelo IFS, atuo principalmente como Desenvolvedor Web e Engenheiro de Redes. Possuo especialização em streaming de dados e detecção de padrões por meio de técnicas de visão computacional e atualmente estou envolvido em pesquisa entitulada Reconstrução e Preservação dos Dados da Fauna Marinha do Brasil, em parceria com o Departamento de Computação e o Ministério de Pesca e Agricultura.
+Curso Sistemas de Informação na UFS e sou Técnico em Redes de Computadores pelo IFS, profissionalmente atuo nas frentes de Desenvolvimento Web e Engenharia de Redes. Atuo principalmente como pesquisador na área de Computação Inteligente, com ênfase em Inteligência Artificial no campo de  Visão Computacional, atualmente estou envolvido em pesquisa entitulada Reconstrução e Preservação dos Dados da Fauna Marinha do Brasil, em parceria com o Departamento de Computação e o Ministério de Pesca e Agricultura.
 
 - 🎓 Graduando em Sistemas de Informação | **UFS**
 - 🏬 Presidente da Liga Acadêmica de Desenvolvimento Web | [**LAWD**](https://github.com/Lawd-UFS)
