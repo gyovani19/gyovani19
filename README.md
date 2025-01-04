@@ -1,4 +1,4 @@
-### Salve, Gyovani Santos 
+### Salve, meu nome é Gyovani Santos 
 
 Curso Sistemas de Informação na UFS e sou Técnico em Redes de Computadores pelo IFS, atuo principalmente como Desenvolvedor Web e Engenheiro de Redes. Possuo especialização em streaming de dados e detecção de padrões por meio de técnicas de visão computacional e atualmente estou envolvido em pesquisa entitulada Reconstrução e Preservação dos Dados da Fauna Marinha do Brasil, em parceria com o Departamento de Computação e o Ministério de Pesca e Agricultura.
 
