@@ -32,18 +32,6 @@ Curso Sistemas de Informação na UFS e sou Técnico em Redes de Computadores pe
 
 [![Infra](https://skillicons.dev/icons?i=nginx,prometheus,grafana,kafka,aws&perline=15)](#)
 
-🔬 Computação Embarcada
-
-[![Infra](https://skillicons.dev/icons?i=arduino,raspberrypi&perline=15)](#)
-
-📦 Ferramentas de Desenvolvimento
-
-[![Tools](https://skillicons.dev/icons?i=vim,git,github,postman,docker,bash,linux&perline=15)](#)
-
-📜 Documentação e Comunicação
-
-[![Docs](https://skillicons.dev/icons?i=md,latex,figma&perline=15)](#)
-
   <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
