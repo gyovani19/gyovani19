@@ -17,7 +17,7 @@ Curso Sistemas de Informação na UFS e sou Técnico em Redes de Computadores pe
   
 🌐 Desenvolvimento Web
 
-[![Desenvolvimento Web](https://skillicons.dev/icons?i=js,ts,ruby,react,tailwind,next,nestjs,expressjs,nodejs,bun,vite,django,mongodb,jest&perline=15)](#)
+[![Desenvolvimento Web](https://skillicons.dev/icons?i=js,ts,ruby,react,tailwind,next,nestjs,expressjs,nodejs,jest&perline=15)](#)
 
 🖥️ Programação de Baixo Nível
 
