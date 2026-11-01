@@ -1,6 +1,6 @@
 ### Salve! Eu sou Gyovani Santos.
 
-Curso Sistemas de Informação na UFS e sou Técnico em Redes de Computadores pelo IFS com experiência centrada em Desenvolvimento WEB. Atualmente sou pesquisador na área de Computação Inteligente, com ênfase em Inteligência Artificial no campo de Visão Computacional, onde, desenvolvo pesquisa apoiada pelo Ministério da Pesca e Agriculta do Brasil. Profissionalmente atuo como um dos CEO's e Fundadores da Human Learning, uma startup focada em soluções tecnológicas inteligentes.
+Curso Sistemas de Informação na UFS e sou Técnico em Redes de Computadores pelo IFS com experiência centrada em Desenvolvimento WEB. Atualmente sou pesquisador na área de Computação Inteligente, com ênfase em Retrieval-Augmented Generation (RAG) e Desenvolvimento Web.
 
 - 🎓 Graduando em Sistemas de Informação | **UFS**
 - 🏬 Fundador da Liga Acadêmica de Desenvolvimento Web | [**LAWD**](https://github.com/Lawd-UFS)
