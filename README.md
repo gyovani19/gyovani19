@@ -1,10 +1,12 @@
 ### Salve! Eu sou Gyovani Santos.
 
-Curso Sistemas de Informação na UFS e sou Técnico em Redes de Computadores pelo IFS com experiência centrada em Desenvolvimento WEB. Atualmente sou pesquisador na área de Computação Inteligente, com ênfase em Retrieval-Augmented Generation (RAG) e Desenvolvimento Web.
+Curso Sistemas de Informação na UFS e sou Técnico em Redes de Computadores pelo IFS com experiência centrada em Desenvolvimento WEB. Atualmente pesquiso Multi-Hop RAG na área de Computação Inteligente.
 
 - 🎓 Graduando em Sistemas de Informação | **UFS**
-- 🏬 Fundador da Liga Acadêmica de Desenvolvimento Web | [**LAWD**](https://github.com/Lawd-UFS)
+- 💻 Desenvolvedor Full Stack na **Di2win**
 - 🔍 Pesquisador do Laboratório para Universalização do Desenvolvimento, Inovação e Inteligência Computacional | [**LUDIICO**](https://www.ludii.co/)
+- 🏬 Fundador da Liga Acadêmica de Desenvolvimento Web | [**LAWD**](https://github.com/Lawd-UFS)
+- 🔗 [**LinkedIn**](https://www.linkedin.com/in/gyovani-yuri-s/)
 
 <p align="center" >
 	<picture>
