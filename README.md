@@ -8,13 +8,6 @@ Curso Sistemas de Informação na UFS e sou Técnico em Redes de Computadores pe
 - 🏬 Fundador da Liga Acadêmica de Desenvolvimento Web | [**LAWD**](https://github.com/Lawd-UFS)
 - 🔗 [**LinkedIn**](https://www.linkedin.com/in/gyovani-yuri-s/)
 
-<p align="center" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/gyovani19/gyovani19/output-3d-contrib/night.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gyovani19/gyovani19/output-3d-contrib/day.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/gyovani19/gyovani19/output-3d-contrib/night.svg" />
-	</picture>
-</p>
   
   
 🌐 Desenvolvimento Web
