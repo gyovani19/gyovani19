@@ -55,7 +55,6 @@ Curso Sistemas de Informação na UFS e sou Técnico em Redes de Computadores pe
 <img src="https://go-skill-icons.vercel.app/api/icons?i=cuda" alt="CUDA" title="CUDA" width="48" height="48"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=nvidia" alt="NVIDIA" title="NVIDIA" width="48" height="48"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain" alt="LangChain" title="LangChain" width="48" height="48"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt" alt="OpenAI" title="OpenAI" width="48" height="48"/>
 <img src="https://skills.syvixor.com/api/icons?i=chroma&radius=60" alt="ChromaDB" title="ChromaDB" width="48" height="48"/>
 </p>
 
